@@ -1,7 +1,4 @@
 # Read the data
-data_mediation <-
-  read.csv("https://raw.githubusercontent.com/tidydatayt/mediation_analysis/m
-ain/mediation_hypothetical_data.csv")
 
 # show the first 6 row of the data
 head(data_mediation)
